@@ -1,0 +1,6 @@
+pandas
+plotly
+scikit-learn
+openpyxl
+nbformat
+kaleido
